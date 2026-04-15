@@ -138,7 +138,7 @@ export default function Hero() {
                         transition={{ duration: 0.7, delay: 0.3 }}
                         className="flex flex-col sm:flex-row gap-4"
                     >
-                        <a href="https://cal.com/pratham.singh/30min" target="_blank" rel="noopener noreferrer" className="glow-button text-center flex items-center justify-center gap-2 text-base">
+                        <a href="https://cal.com/pratham-singh-wzl4nr/30min" target="_blank" rel="noopener noreferrer" className="glow-button text-center flex items-center justify-center gap-2 text-base">
                             Secure My Growth Audit
                             <ArrowRight className="w-5 h-5" />
                         </a>
