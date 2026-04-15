@@ -179,7 +179,7 @@ export default function LeadCalculator() {
 
                             {/* CTA */}
                             <a
-                                href="https://cal.com/vaultcrest"
+                                href="https://cal.com/pratham-singh-wzl4nr/30min"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="glow-button w-full flex items-center justify-center gap-2 text-base mt-4"

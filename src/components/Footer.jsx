@@ -1,7 +1,7 @@
 import { Mail, Linkedin, MapPin, ArrowUpRight, Calendar } from 'lucide-react';
 import VaultcrestLogo from './VaultcrestLogo';
 
-const CAL_LINK = 'https://cal.com/pratham.singh/30min';
+const CAL_LINK = 'https://cal.com/pratham-singh-wzl4nr/30min';
 
 export default function Footer() {
     return (

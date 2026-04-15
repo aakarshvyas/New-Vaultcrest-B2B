@@ -88,7 +88,7 @@ export default function Navbar() {
                         </button>
 
                         {/* Desktop CTA */}
-                        <a href="https://cal.com/pratham.singh/30min" target="_blank" rel="noopener noreferrer" className="hidden md:block glow-button text-sm px-5 py-2.5">
+                        <a href="https://cal.com/pratham-singh-wzl4nr/30min" target="_blank" rel="noopener noreferrer" className="hidden md:block glow-button text-sm px-5 py-2.5">
                             Schedule a Meeting
                         </a>
 
