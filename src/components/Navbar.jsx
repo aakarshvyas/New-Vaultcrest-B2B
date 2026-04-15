@@ -135,7 +135,7 @@ export default function Navbar() {
                                 </motion.a>
                             ))}
                             <a
-                                href="https://cal.com/pratham.singh/30min"
+                                href="https://cal.com/pratham-singh-wzl4nr/30min"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 onClick={() => setIsOpen(false)}
